@@ -1,0 +1,4 @@
+[submodule "coditex"]
+	path = coditex
+	url = git@git.vauxoo.com:vauxoo/coditex.git
+	branch = 14.0
