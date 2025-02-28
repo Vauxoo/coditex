@@ -14,3 +14,7 @@
 	path = l10n-mx-cash-basis-entries
 	url = git@git.vauxoo.com:mexico/l10n-mx-cash-basis-entries.git
 	branch = 18.0
+[submodule "xunnel-account"]
+	path = xunnel-account
+	url = git@git.vauxoo.com:vauxoo/xunnel-account.git
+	branch = 18.0
